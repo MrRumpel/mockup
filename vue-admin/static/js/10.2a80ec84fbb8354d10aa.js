@@ -1,0 +1,2 @@
+webpackJsonp([10],{923:function(e,n,t){var r=t(17)(t(943),t(983),null,null,null);e.exports=r.exports},943:function(e,n,t){"use strict";Object.defineProperty(n,"__esModule",{value:!0}),n.default={name:"dashboard",data:function(){return{}}}},983:function(e,n){e.exports={render:function(){var e=this,n=e.$createElement;return(e._self._c||n)("div")},staticRenderFns:[]}}});
+//# sourceMappingURL=10.2a80ec84fbb8354d10aa.js.map
